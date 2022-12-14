@@ -1,0 +1,17 @@
+Activated the PHY40 environment and then opened up jupyter notebook.
+	Added my name and section information at the top.
+
+Began the assignment while working with Brian in Monday's lab.
+	first couple of lab questions went by very smoothly.
+
+Had trouble figuring out how to add negative binary numbers.
+	discussed with Brian, who helped to deduce the correct procedure.
+Confirmed that our method worked, and is what is expected of the question.
+
+Lab question about how to get y equal to a simple value without "ghosts in the machine".
+	decided to try setting y equivalency firmly as an integer.
+This worked, as it doesn't change the value of y, but does allow for the "==" function to work.
+
+Finished up the lab questions.
+	saved the file and then printed to PDF.
+Deactivated environment.
